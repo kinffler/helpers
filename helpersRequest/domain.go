@@ -1,4 +1,4 @@
-package helpers
+package helpersRequest
 
 type Request struct {
 	Url           string

@@ -1,4 +1,4 @@
-package helpers
+package helpersRepository
 
 import (
 	"github.com/flambra/helpers/hTypes"

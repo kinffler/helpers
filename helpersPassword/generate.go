@@ -1,4 +1,4 @@
-package helpers
+package helpersPassword
 
 import (
 	"crypto/rand"
